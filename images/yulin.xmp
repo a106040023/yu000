@@ -1,0 +1,91 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:aux="http://ns.adobe.com/exif/1.0/aux/"
+    xmlns:exifEX="http://cipa.jp/exif/1.0/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   xmp:Rating="0"
+   xmp:ModifyDate="2018-12-01T10:52:26.57"
+   xmp:CreateDate="2018-12-01T10:52:26.57"
+   xmp:MetadataDate="2018-12-27T14:56:11+08:00"
+   tiff:Make="Canon"
+   tiff:Model="Canon EOS 80D"
+   tiff:Orientation="1"
+   exif:ExifVersion="0230"
+   exif:ExposureTime="1/125"
+   exif:ShutterSpeedValue="6965784/1000000"
+   exif:FNumber="5/1"
+   exif:ApertureValue="4643856/1000000"
+   exif:ExposureProgram="4"
+   exif:SensitivityType="2"
+   exif:RecommendedExposureIndex="320"
+   exif:ExposureBiasValue="0/1"
+   exif:MaxApertureValue="3/1"
+   exif:MeteringMode="5"
+   exif:FocalLength="25/1"
+   exif:CustomRendered="0"
+   exif:ExposureMode="0"
+   exif:WhiteBalance="0"
+   exif:SceneCaptureType="0"
+   exif:FocalPlaneXResolution="88104193/32768"
+   exif:FocalPlaneYResolution="88104193/32768"
+   exif:FocalPlaneResolutionUnit="3"
+   exif:DateTimeOriginal="2018-12-01T10:52:26.57"
+   aux:SerialNumber="248024003457"
+   aux:LensInfo="17/1 50/1 0/0 0/0"
+   aux:Lens="17-50mm"
+   aux:LensID="240"
+   aux:LensSerialNumber="0000000000"
+   aux:ImageNumber="0"
+   aux:ApproximateFocusDistance="144/100"
+   aux:FlashCompensation="0/1"
+   aux:Firmware="1.0.2"
+   exifEX:LensModel="17-50mm"
+   photoshop:DateCreated="2018-12-01T10:52:26.57"
+   photoshop:SidecarForExtension="JPG"
+   photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
+   xmpMM:DocumentID="F184BDDD884195AA2735D826768ED5B9"
+   xmpMM:OriginalDocumentID="F184BDDD884195AA2735D826768ED5B9"
+   xmpMM:InstanceID="xmp.iid:70d9b7eb-d8b5-41b8-8746-ca3ba95f1e96"
+   dc:format="image/x-canon-cr2"
+   crs:HasSettings="False"
+   crs:HasCrop="False"
+   crs:AlreadyApplied="False"
+   crs:RawFileName="yulin.jpg">
+   <exif:ISOSpeedRatings>
+    <rdf:Seq>
+     <rdf:li>320</rdf:li>
+    </rdf:Seq>
+   </exif:ISOSpeedRatings>
+   <exif:Flash
+    exif:Fired="True"
+    exif:Return="0"
+    exif:Mode="1"
+    exif:Function="False"
+    exif:RedEyeMode="False"/>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:edcf08ab-fb1d-45f7-9893-c563af3785c9"
+      stEvt:when="2018-12-27T14:55:47+08:00"
+      stEvt:softwareAgent="Adobe Photoshop Camera Raw 10.3 (Macintosh)"
+      stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:70d9b7eb-d8b5-41b8-8746-ca3ba95f1e96"
+      stEvt:when="2018-12-27T14:56:11+08:00"
+      stEvt:softwareAgent="Adobe Photoshop Camera Raw 10.3 (Macintosh)"
+      stEvt:changed="/metadata"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
